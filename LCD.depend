@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1350889040 source:c:\arduino_projects\colorlcdshield\colorlcdshield.cpp
+	"ColorLCDShield.h"
+	"wiring.h"
+	"Arduino.h"
+
+1342435864 c:\arduino_projects\colorlcdshield\colorlcdshield.h
+	<inttypes.h>
+
+1371033102 c:\codeblocks-arduino\codeblocks\arduino\hardware\arduino\cores\arduino\arduino.h
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<avr/pgmspace.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	"binary.h"
+	"WCharacter.h"
+	"WString.h"
+	"HardwareSerial.h"
+	"pins_arduino.h"
+
+1362986950 c:\codeblocks-arduino\codeblocks\arduino\hardware\arduino\cores\arduino\binary.h
+
+1362986950 c:\codeblocks-arduino\codeblocks\arduino\hardware\arduino\cores\arduino\wcharacter.h
+	<ctype.h>
+
+1371033134 c:\codeblocks-arduino\codeblocks\arduino\hardware\arduino\cores\arduino\wstring.h
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<avr/pgmspace.h>
+
+1362986950 c:\codeblocks-arduino\codeblocks\arduino\hardware\arduino\cores\arduino\hardwareserial.h
+	<inttypes.h>
+	"Stream.h"
+	"USBAPI.h"
+
+1371032830 c:\codeblocks-arduino\codeblocks\arduino\hardware\arduino\cores\arduino\stream.h
+	<inttypes.h>
+	"Print.h"
+
+1362986950 c:\codeblocks-arduino\codeblocks\arduino\hardware\arduino\cores\arduino\print.h
+	<inttypes.h>
+	<stdio.h>
+	"WString.h"
+	"Printable.h"
+
+1362986950 c:\codeblocks-arduino\codeblocks\arduino\hardware\arduino\cores\arduino\printable.h
+	<new.h>
+
+1362986950 c:\codeblocks-arduino\codeblocks\arduino\hardware\arduino\cores\arduino\new.h
+	<stdlib.h>
+
+1362986950 c:\codeblocks-arduino\codeblocks\arduino\hardware\arduino\cores\arduino\usbapi.h
+
+1362986950 c:\codeblocks-arduino\codeblocks\arduino\hardware\arduino\variants\standard\pins_arduino.h
+	<avr/pgmspace.h>
+
+1443811622 source:c:\arduino_projects\lcd\lcd.ino
+	<Arduino.h>
+	<ColorLCDShield.h>
+
+1443812665 c:\arduino_projects\lcd\colorlcdshield.h
+	<inttypes.h>
+
+1443812603 source:c:\arduino_projects\arduino_projects\lcd\colorlcdshield.cpp
+	"ColorLCDShield.h"
+	"wiring.h"
+	"Arduino.h"
+
+1443812665 c:\arduino_projects\arduino_projects\lcd\colorlcdshield.h
+	<inttypes.h>
+
+1443818706 source:c:\arduino_projects\arduino_projects\lcd\lcd.ino
+	<Arduino.h>
+	<ColorLCDShield.h>
+
